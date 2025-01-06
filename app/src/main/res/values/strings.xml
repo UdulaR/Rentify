@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SEGRentify</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="Register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="select_user_type">Select user type</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="role">Role:</string>
+    <string name="first_name_welcome">First Name:</string>
+    <string name="last_name_welcome">Last Name:</string>
+    <string name="Email_welcome">Email:</string>
+    <string name="category_name">Category name</string>
+    <string name="categories">Categories</string>
+    <string name="category_desc">Category description</string>
+    <string name="add_a_category">Add a category</string>
+    <string name="add_category">Add category</string>
+    <string name="click_to_add_edit_delete_a_category">Click to add, edit, delete a category</string>
+    <string name="click_to_list_all_users">Click to list all users</string>
+    <string name="click_to_add_edit_delete_an_item">Click to add, delete, or edit an item</string>
+    <string name="click_to_edit_an_item">Click to edit an item</string>
+    <string name="click_to_delete_an_item">Click to delete an item</string>
+    <string name="click_to_search_for_an_item">Click to search for an Item</string>
+    <string name="exit">Exit</string>
+    <string name="disabled">Disabled: </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="user_list">User List</string>
+    <string name="disable_user">Disable/Enable User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="your_account_is_disabled">Your account is disabled</string>
+    <string name="product_name">product_name</string>
+    <string name="product_desc">product_desc</string>
+    <string name="Items">Items</string>
+    <string name="add_product">add_product</string>
+    <string name="products">products</string>
+    <string name="item_name">Item name</string>
+    <string name="item_description">Item description</string>
+    <string name="add_item">Add item</string>
+    <string name="items">Items</string>
+    <string name="item_price">Price of the item</string>
+    <string name="rent_period">Renting time period</string>
+    <string name="select_a_category">Select a category</string>
+    <string name="category">Category: </string>
+    <string name="time">Time period: </string>
+    <string name="price">Price: </string>
+    <string name="select_category" />
+    <string name="Category" />
+    <string name="item_list" />
+    <string name="renting_requests" />
+    <string name="helper">Search items using the textbox. Leaving the textbox blank will search all items in the selected category.</string>
+    <string name="no_results">No results.</string>
+
+
+    <string-array name="roles_array">
+        <item>Lessor</item>
+        <item>Renter</item>
+    </string-array>
+
+    <string-array name="categories_array"></string-array>
+</resources>

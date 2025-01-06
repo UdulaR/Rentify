@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256989497559",
+    "firebase_url": "https://rentify-d139b-default-rtdb.firebaseio.com",
+    "project_id": "rentify-d139b",
+    "storage_bucket": "rentify-d139b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256989497559:android:b34ab78fdbaa7a8a660892",
+        "android_client_info": {
+          "package_name": "com.example.segrentify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC9Ifd86ocUWH_FtfBsB4vMktgaE8PtuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
